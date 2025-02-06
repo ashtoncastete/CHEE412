@@ -1,3 +1,6 @@
 # CHEE412
 Classwork
-Updated
+Contents of the repo:
+  Jupyter Notebook
+  Image
+  
